@@ -1,0 +1,11 @@
+{
+  "appName": "hi-jack2",
+  "userGivenName": "hi-jack2",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/hi-jack2/overlays/testing",
+  "srcRepoURL": "https://github.com/vadimosipov/seldon-autopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
